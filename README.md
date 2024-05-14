@@ -1,6 +1,6 @@
 ## Gabriel Dantas - PHP Developer
  <div>
-  <a href="https://dantasdeveloper.com">
+  <a href="https://g-dantas.github.io/portfolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-dantas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-dantas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
